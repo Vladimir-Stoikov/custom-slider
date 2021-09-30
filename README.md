@@ -1,1 +1,3 @@
-# custom-slider
+# Custom Slider
+## Learning project
+### HTML CSS JS
